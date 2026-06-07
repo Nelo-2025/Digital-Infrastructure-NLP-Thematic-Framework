@@ -1,5 +1,11 @@
 # Digital-Infrastructure-NLP-Thematic-Framework
-Integrated an NLP text mining pipeline that ingest qualitative coordinator logs
+
+
+#### This digital infrastruture is collection of weekly session summary of community events from August-December 2025.  This is participants engagement data of parents and children that relax, connect, and play together in a supportive environment. The sessions support child development and promote emotional and mental well‑being for both children and their parents/caregivers.  The focus of this natural language processing (NLP)  is to assess whether the organisation is meeting its thematic focus. The code helps to ensure that each session fosters a safe, nurturing, and engaging atmosphere—especially for children and their parents.
+
+## Steps
+Integrated an NLP text mining pipeline that ingest qualitative session summary logs.
+
 
 """
 ## LDA Topic Analysis Results
