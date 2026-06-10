@@ -2,14 +2,14 @@
 ---
 
 ## Table of Contents
-1. Project overview
-2. [Dataset]
-3. -[Repository structure]
-4. - [Pipeline architecture]
-5. [Technical stack]
-6. [Installation and setup]
-7. [Running the notebook]
-8. [Analysis modules - what each section does and why]
+1. [Project overview](#1-Project-overview)
+2. [Dataset](#2-Dataset)
+3. [Repository structure](#3-Repository-structure)
+4. [Pipeline architecture](#4-Pipeline-architecture)
+5. [Technical stack](#5-Technical-stack)
+6. [Installation and setup](#6-Installation-and-setup)
+7. [Running the notebook](#7-Running-the-notebook)
+8. [Analysis modules - what each section does and why](#8-Analysis-modules-what-each-section-does-and-why)
    - 8.1 Text extraction and preprocessing
    - 8.2 Named entity recognition and name removal
    - 8.3 Session builder -  the shared data contract
@@ -53,12 +53,19 @@ This pipeline wa designed and delivered ened-to-end by a single practitioner. It
 |Privacy| Coordinator names removed via spaCy NER + manual regex before any analysis|
 |Participant data|NO child names, family identifiers, or sensitive personal data appear in the summaries|
 
-**Required input:** stay_play.docx must be placed in the same category as stay_play.ipynb before running
+> **Required input:** `stay_play.docx` must be placed in the same category as `stay_play.ipynb` before running
 
 3. **Repository Structure**
    
-## Steps
-Integrated an NLP text mining pipeline that ingest qualitative session summary logs.
+```
+stay-and-play-nlp/
+|
+|-stay_play.ipynb  #Main analysis notebook - 74 cells, run top to bottom
+|
+
+
+
+```
 
 
 """
