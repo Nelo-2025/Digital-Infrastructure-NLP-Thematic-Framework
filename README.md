@@ -60,7 +60,7 @@ This pipeline wa designed and delivered ened-to-end by a single practitioner. It
 ```
 stay-and-play-nlp/
 |
-|-stay_play.ipynb  #Main analysis notebook - 74 cells, run top to bottom
+|¬ stay_play.ipynb  #Main analysis notebook - 74 cells, run top to bottom
 |
 
 
