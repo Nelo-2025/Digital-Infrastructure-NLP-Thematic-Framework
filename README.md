@@ -10,7 +10,7 @@ The focus of this NLP  is to determine if the organisation is meeting its themat
 
 NLP transforms unstructured summaries into a structure and rich dataset. This work spans every layer of text analysis: from preprocessing and lemmatisation through to unsupervised topic discovery, semantic keyword extraction, rolling sentiment trends, and a per-session master table that joins all analytical outputs on a common date key.
 
-This pipeline was designed and delivered to serve two concurrent purposes: 
+**This pipeline was designed and delivered to serve two concurrent purposes:** 
 
 1. providing evidence-based intelligence for programme management
 2.  demonstrating applied NLP capability across the full production lifecycle - raw data ingestion to exportable CSVs and publication quality charts.
@@ -25,7 +25,9 @@ This pipeline was designed and delivered to serve two concurrent purposes:
 ### Social Impact Contribution
 
 - data driven insight for resouce allocation and programme decision
+  
 - Advance knowledge hub
+  
 - Grant ready impact report
 
 
