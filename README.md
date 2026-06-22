@@ -13,6 +13,7 @@ NLP transforms unstructured summaries into a structure and rich dataset. This wo
 **This pipeline was designed and delivered to serve two concurrent purposes:** 
 
 1. providing evidence-based intelligence for programme management
+   
 2.  demonstrating applied NLP capability across the full production lifecycle - raw data ingestion to exportable CSVs and publication quality charts.
 
 
@@ -21,6 +22,7 @@ NLP transforms unstructured summaries into a structure and rich dataset. This wo
 **Data Ingestion:** [`Google Doc`] for collaboration
 
 **Data Engineering:** [`JUPYTER NoteBook`] for NLP
+
 
 ### Social Impact Contribution
 
