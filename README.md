@@ -3,7 +3,7 @@
 ### Programme Overview
 This digital infrastructure supports a weekly community programme where parents and children come together to relax, connect, and play in a supportive environment. Sessions are designed to support child development and promote emotional and mental wellbeing for both children and their parents/caregivers.
 
-Each week, programme coordinators write a free-text summary of their session. This pipeline turns that growing archive of unstructured summaries into a structured, analysable dataset — enabling the programme to monitor its own impact systematically rather than anecdotally.
+Each week, I write programme coordinators summary of their session in a word document. This pipeline turns that growing archive of unstructured summaries into a structured, analysable dataset — enabling the programme to monitor its own impact systematically rather than anecdotally.
 
 ### Why Natural Language Processing?
 The core question driving this work is whether the organisation is consistently meeting its thematic and developmental objectives across sessions, coordinators, and time. NLP was chosen because the underlying data — coordinator narrative summaries — is unstructured by nature, and manual review does not scale as the number of sessions grows.
